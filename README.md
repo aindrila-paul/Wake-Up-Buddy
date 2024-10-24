@@ -3,7 +3,8 @@ Hate alarm clocks? Well here is one, purely coded and purely fun.
 
 # Highlights
 1. Your personalized alarm clock.
-2. Snooze feature is available.
+2. Customise your alarm sound.
+3. Snooze feature is available and you can choose your snooze duration as well.
 
 # Getting Started
 1.  git clone __https://github.com/aindrila-paul/Wake-Up-Buddy.git__ - clone this project to your computer
